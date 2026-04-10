@@ -13,7 +13,7 @@ Actualmente estoy desarrollando y operando mi propio proyecto, MotoMotoChile, un
 donde he trabajado tanto en el desarrollo como en la parte comercial y contable. Esto me ha permitido entender no solo el lado técnico, sino también 
 cómo una solución digital impacta directamente en un negocio real.
 
-He trabajado con tecnologías como Django, PostgreSQL, JavaScript y despliegue en Render, integrando servicios como MercadoPago para pagos,
+He trabajado con tecnologías como Django, PostgreSQL, JavaScript y despliegue en Render, integrando servicios como MercadoPago Checkout para pagos,
 automatización de correos y notificaciones y sistemas de autenticación. Además, he realizado cursos de diseño y programación web a través de SENCE y 
 Talento Digital, lo que ha complementado mi formación académica.
 
